@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-30T07:12:57.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="F-al9fnF02zzLc-li1cE" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-30T07:15:53.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="VbFmD1XQLrM_Ec5Uwzle" version="21.2.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1594" dy="1238" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -273,8 +273,8 @@
         </mxCell>
         <mxCell id="8I2LI0loq8h-P1WwzQqD-48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1336" y="-263" as="sourcePoint" />
-            <mxPoint x="1377" y="-263" as="targetPoint" />
+            <mxPoint x="1364" y="-339.5" as="sourcePoint" />
+            <mxPoint x="1405" y="-339.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8I2LI0loq8h-P1WwzQqD-49" value="" style="endArrow=none;html=1;rounded=0;exitX=0.966;exitY=0.654;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8I2LI0loq8h-P1WwzQqD-46">
@@ -336,6 +336,18 @@
             <mxPoint x="1440" y="-230" as="sourcePoint" />
             <mxPoint x="1490" y="-280" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8I2LI0loq8h-P1WwzQqD-59" value="用户社团活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2132" y="-277" width="76" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="8I2LI0loq8h-P1WwzQqD-60" value="主键id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1961" y="-396" width="82" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="8I2LI0loq8h-P1WwzQqD-61" value="用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2087" y="-399" width="82" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="8I2LI0loq8h-P1WwzQqD-62" value="活动编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2228" y="-369" width="82" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
