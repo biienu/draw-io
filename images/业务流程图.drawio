@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T06:44:32.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="DKixeIpCyJOAqnhrtQTM" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T07:14:56.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Rq8ozFyCpCmnqWHaUp_1" version="21.2.3" type="github">
   <diagram id="PFTaVR9R77RU1zgIoD-t" name="Page-1">
-    <mxGraphModel dx="1034" dy="1238" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1616" dy="1315" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -237,11 +237,125 @@
         <mxCell id="TgjRXRTITHaoMna3Si7o-27" value="超级管理员" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="178.5" y="580" width="66.5" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="TgjRXRTITHaoMna3Si7o-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgjRXRTITHaoMna3Si7o-29" target="TgjRXRTITHaoMna3Si7o-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TgjRXRTITHaoMna3Si7o-29" value="社团列表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="484" width="73" height="43" as="geometry" />
+          <mxGeometry x="282" y="694.5" width="73" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-32" value="社团重复创建" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="61" y="694.5" width="74" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TgjRXRTITHaoMna3Si7o-27" target="TgjRXRTITHaoMna3Si7o-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="62" y="640" as="sourcePoint" />
+            <mxPoint x="112" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.671;exitY=0.734;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="TgjRXRTITHaoMna3Si7o-32" target="TgjRXRTITHaoMna3Si7o-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="125" y="872" as="sourcePoint" />
+            <mxPoint x="175" y="822" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.014;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TgjRXRTITHaoMna3Si7o-29" target="TgjRXRTITHaoMna3Si7o-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="729" as="sourcePoint" />
+            <mxPoint x="470" y="679" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-38" value="发布新闻表单" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="-43" y="599" width="79" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="TgjRXRTITHaoMna3Si7o-27" target="TgjRXRTITHaoMna3Si7o-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-18" y="742" as="sourcePoint" />
+            <mxPoint x="32" y="692" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-42" value="新闻列表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="814" width="81" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.008;exitY=0.379;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TgjRXRTITHaoMna3Si7o-42" target="TgjRXRTITHaoMna3Si7o-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-186" y="976" as="sourcePoint" />
+            <mxPoint x="-136" y="926" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-46" value="申请加入社团表单" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="414.25" y="897" width="61.5" height="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="TgjRXRTITHaoMna3Si7o-2" target="TgjRXRTITHaoMna3Si7o-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="442" y="807" as="sourcePoint" />
+            <mxPoint x="410" y="899" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-49" value="社团管理员" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="554" y="889.75" width="66.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-50" value="社团成员列表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="713" y="902.25" width="68" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TgjRXRTITHaoMna3Si7o-46" target="TgjRXRTITHaoMna3Si7o-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="446" y="816" as="sourcePoint" />
+            <mxPoint x="507" y="1014" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-54" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.128;entryY=-0.058;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TgjRXRTITHaoMna3Si7o-27" target="TgjRXRTITHaoMna3Si7o-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="255" y="676" as="sourcePoint" />
+            <mxPoint x="305" y="626" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-55" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TgjRXRTITHaoMna3Si7o-49" target="TgjRXRTITHaoMna3Si7o-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="438" y="707" as="sourcePoint" />
+            <mxPoint x="488" y="657" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.131;exitY=1.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TgjRXRTITHaoMna3Si7o-38" target="TgjRXRTITHaoMna3Si7o-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-134" y="817" as="sourcePoint" />
+            <mxPoint x="-84" y="767" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-57" value="发布社团活动表单" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="806.5" width="66" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="TgjRXRTITHaoMna3Si7o-49" target="TgjRXRTITHaoMna3Si7o-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="583" y="768" as="sourcePoint" />
+            <mxPoint x="707" y="865" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-59" value="社团活动列表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="582.5" width="69" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="TgjRXRTITHaoMna3Si7o-59" target="TgjRXRTITHaoMna3Si7o-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="451" y="672" as="sourcePoint" />
+            <mxPoint x="391" y="782" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="TgjRXRTITHaoMna3Si7o-57" target="TgjRXRTITHaoMna3Si7o-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="408" y="826" as="sourcePoint" />
+            <mxPoint x="458" y="776" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-62" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TgjRXRTITHaoMna3Si7o-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="519" y="609" as="sourcePoint" />
+            <mxPoint x="369" y="576" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgjRXRTITHaoMna3Si7o-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TgjRXRTITHaoMna3Si7o-57" target="TgjRXRTITHaoMna3Si7o-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="474" y="867" as="sourcePoint" />
+            <mxPoint x="524" y="817" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
