@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T15:29:51.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="etQUuhTP1yBN8T5k7xW1" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T15:38:39.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="3U4T_Z_IzlUogKxdlB7b" version="21.3.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1594" dy="1238" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -103,9 +103,6 @@
             <mxPoint x="-321" y="-247" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8I2LI0loq8h-P1WwzQqD-1" value="用户实体图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-422" y="-80" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="8I2LI0loq8h-P1WwzQqD-2" value="社团编号" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="107" y="-338.5" width="79" height="48" as="geometry" />
         </mxCell>
@@ -169,9 +166,6 @@
             <mxPoint x="240" y="-301" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8I2LI0loq8h-P1WwzQqD-17" value="社团实体图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="235" y="-159" width="89" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="8I2LI0loq8h-P1WwzQqD-20" value="社团成员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="875" y="-322" width="82" height="45" as="geometry" />
         </mxCell>
@@ -234,9 +228,6 @@
             <mxPoint x="940" y="-185" as="sourcePoint" />
             <mxPoint x="990" y="-235" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="8I2LI0loq8h-P1WwzQqD-36" value="用户社团关系实体图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="867" y="-130" width="121" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8I2LI0loq8h-P1WwzQqD-37" value="社团活动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1489" y="-285" width="74" height="41" as="geometry" />
