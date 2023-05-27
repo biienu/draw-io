@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T12:00:31.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="N6UNg5lccThdDu5dn7-G" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T12:06:11.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="iefCnix-dGM11wkBRCPr" version="21.3.4" type="github">
   <diagram name="第 1 页" id="8ePfgUnNjt7sfL_Q9ex-">
     <mxGraphModel dx="2234" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -210,7 +210,7 @@
         <mxCell id="dDw6INjENduWIAmaYxE8-75" value="DB1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-216" y="1301.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dDw6INjENduWIAmaYxE8-76" value="用户列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="dDw6INjENduWIAmaYxE8-76" value="用户表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-165" y="1299" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dDw6INjENduWIAmaYxE8-81" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
@@ -369,9 +369,6 @@
         <mxCell id="dDw6INjENduWIAmaYxE8-125" value="不可重复申请或加入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-692" y="1162" width="126" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dDw6INjENduWIAmaYxE8-129" value="发布活动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-470" y="965" width="66" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="dDw6INjENduWIAmaYxE8-130" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-843" y="1468" width="124" height="40" as="geometry" />
         </mxCell>
@@ -450,7 +447,7 @@
         <mxCell id="dDw6INjENduWIAmaYxE8-151" value="DB6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-287" y="1039" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dDw6INjENduWIAmaYxE8-152" value="评论列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="dDw6INjENduWIAmaYxE8-152" value="评论表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-234" y="1039" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dDw6INjENduWIAmaYxE8-155" value="新闻列表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
