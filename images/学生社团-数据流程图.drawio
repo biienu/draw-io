@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T11:54:49.591Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="O1bdwAbh1AkmS7lzkxu7" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T11:57:13.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="cALjhy_b5QVGo9A2PFtL" version="21.3.4" type="github">
   <diagram name="第 1 页" id="8ePfgUnNjt7sfL_Q9ex-">
     <mxGraphModel dx="2234" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -366,8 +366,8 @@
         <mxCell id="dDw6INjENduWIAmaYxE8-120" value="新创建社团" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1051" y="1145" width="78" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dDw6INjENduWIAmaYxE8-125" value="不可重复加入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-652" y="1184" width="90" height="26" as="geometry" />
+        <mxCell id="dDw6INjENduWIAmaYxE8-125" value="不可重复申请或加入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-692" y="1162" width="126" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dDw6INjENduWIAmaYxE8-126" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.129;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="dDw6INjENduWIAmaYxE8-59" target="dDw6INjENduWIAmaYxE8-104" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -592,7 +592,7 @@
             <mxPoint x="-676" y="1064" as="sourcePoint" />
             <mxPoint x="-626" y="1014" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-678" y="1173" />
+              <mxPoint x="-686" y="1180" />
             </Array>
           </mxGeometry>
         </mxCell>
