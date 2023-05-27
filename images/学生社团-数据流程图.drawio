@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T11:58:51.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="GJCd2eqdG0kRQ9uTkLEX" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T12:00:31.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="N6UNg5lccThdDu5dn7-G" version="21.3.4" type="github">
   <diagram name="第 1 页" id="8ePfgUnNjt7sfL_Q9ex-">
     <mxGraphModel dx="2234" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -369,19 +369,6 @@
         <mxCell id="dDw6INjENduWIAmaYxE8-125" value="不可重复申请或加入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-692" y="1162" width="126" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dDw6INjENduWIAmaYxE8-126" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.129;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="dDw6INjENduWIAmaYxE8-59" target="dDw6INjENduWIAmaYxE8-104" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-613" y="832" as="sourcePoint" />
-            <mxPoint x="-943" y="811" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-689" y="813" />
-              <mxPoint x="-931" y="816" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dDw6INjENduWIAmaYxE8-127" value="加入社团" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-862" y="787" width="66" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="dDw6INjENduWIAmaYxE8-129" value="发布活动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-470" y="965" width="66" height="26" as="geometry" />
         </mxCell>
@@ -595,6 +582,16 @@
               <mxPoint x="-686" y="1180" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Tcg_gP1--9uaAUproWpJ-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.148;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.32;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Tcg_gP1--9uaAUproWpJ-8" target="dDw6INjENduWIAmaYxE8-104">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-979" y="1037" as="sourcePoint" />
+            <mxPoint x="-1003" y="941" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tcg_gP1--9uaAUproWpJ-40" value="加入社团" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-939" y="960" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
